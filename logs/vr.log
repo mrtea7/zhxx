@@ -1,0 +1,708 @@
+[2016-12-01 10:15:36.627] [INFO] vrender - VRender初始化...
+[2016-12-01 10:15:36.630] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:15:36.631] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:15:36.632] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:15:36.640] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:15:50.743] [INFO] vrender - VRender初始化...
+[2016-12-01 10:15:50.747] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:15:50.748] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:15:50.748] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:15:50.754] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:36:09.210] [INFO] vrender - VRender初始化...
+[2016-12-01 10:36:09.218] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:36:09.218] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:36:09.219] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:36:09.228] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:36:33.991] [INFO] vrender - VRender初始化...
+[2016-12-01 10:36:33.995] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:36:33.996] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:36:33.996] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:36:34.003] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:38:00.635] [INFO] vrender - VRender初始化...
+[2016-12-01 10:38:00.640] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:38:00.640] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:38:00.640] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:38:00.647] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:40:56.477] [INFO] vrender - VRender初始化...
+[2016-12-01 10:40:56.481] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:40:56.482] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:40:56.482] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:40:56.491] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:41:26.207] [INFO] vrender - VRender初始化...
+[2016-12-01 10:41:26.211] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:41:26.211] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:41:26.212] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:41:26.217] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:42:06.239] [INFO] vrender - VRender初始化...
+[2016-12-01 10:42:06.243] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:42:06.243] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:42:06.244] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:42:06.250] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:42:52.493] [INFO] vrender - VRender初始化...
+[2016-12-01 10:42:52.497] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:42:52.497] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:42:52.497] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:42:52.502] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:43:38.344] [INFO] vrender - VRender初始化...
+[2016-12-01 10:43:38.348] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:43:38.348] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:43:38.348] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:43:38.353] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:43:47.703] [INFO] vrender - VRender初始化...
+[2016-12-01 10:43:47.707] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:43:47.707] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:43:47.708] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:43:47.714] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:44:54.254] [INFO] vrender - VRender初始化...
+[2016-12-01 10:44:54.257] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:44:54.257] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:44:54.257] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:44:54.264] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:45:58.139] [INFO] vrender - VRender初始化...
+[2016-12-01 10:45:58.143] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:45:58.143] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:45:58.143] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:45:58.150] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:46:44.731] [INFO] vrender - VRender初始化...
+[2016-12-01 10:46:44.734] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:46:44.735] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:46:44.735] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:46:44.745] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:46:55.952] [INFO] vrender - VRender初始化...
+[2016-12-01 10:46:55.958] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:46:55.959] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:46:55.960] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:46:55.977] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:47:27.796] [INFO] vrender - VRender初始化...
+[2016-12-01 10:47:27.800] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:47:27.800] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:47:27.800] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:47:27.806] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:48:04.529] [INFO] vrender - VRender初始化...
+[2016-12-01 10:48:04.532] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:48:04.533] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:48:04.533] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:48:04.540] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:48:46.139] [INFO] vrender - VRender初始化...
+[2016-12-01 10:48:46.143] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:48:46.144] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:48:46.144] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:48:46.153] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:48:52.315] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/admin”
+[2016-12-01 10:49:05.562] [INFO] vrender - VRender初始化...
+[2016-12-01 10:49:05.565] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:49:05.566] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:49:05.566] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:49:05.572] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:49:09.066] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/admin”
+[2016-12-01 10:49:18.729] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/admin/customer”
+[2016-12-01 10:49:59.145] [INFO] vrender - VRender初始化...
+[2016-12-01 10:49:59.149] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:49:59.149] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:49:59.149] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:49:59.156] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:50:05.084] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/admin/customer”
+[2016-12-01 10:50:32.486] [INFO] vrender - VRender初始化...
+[2016-12-01 10:50:32.491] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:50:32.491] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:50:32.491] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:50:32.497] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:51:14.379] [INFO] vrender - VRender初始化...
+[2016-12-01 10:51:14.384] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:51:14.384] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:51:14.385] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:51:14.392] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:51:20.045] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/admin/manager”
+[2016-12-01 10:51:31.817] [INFO] vrender - VRender初始化...
+[2016-12-01 10:51:31.820] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:51:31.821] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:51:31.821] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:51:31.830] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:51:33.660] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/admin/customer”
+[2016-12-01 10:52:06.891] [INFO] vrender - VRender初始化...
+[2016-12-01 10:52:06.894] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:52:06.895] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:52:06.895] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:52:06.903] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:53:20.235] [INFO] vrender - VRender初始化...
+[2016-12-01 10:53:20.238] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:53:20.238] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:53:20.239] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:53:20.244] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:54:31.652] [INFO] vrender - VRender初始化...
+[2016-12-01 10:54:31.656] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:54:31.656] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:54:31.657] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:54:31.669] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:56:04.797] [INFO] vrender - VRender初始化...
+[2016-12-01 10:56:04.800] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:56:04.801] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:56:04.801] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:56:04.808] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:56:16.055] [INFO] vrender - VRender初始化...
+[2016-12-01 10:56:16.059] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:56:16.059] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:56:16.060] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:56:16.071] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:56:25.557] [INFO] vrender - VRender初始化...
+[2016-12-01 10:56:25.560] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:56:25.560] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:56:25.560] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:56:25.567] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:57:23.917] [INFO] vrender - VRender初始化...
+[2016-12-01 10:57:23.920] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:57:23.920] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:57:23.921] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:57:23.927] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:57:25.063] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/admin/customer”
+[2016-12-01 10:58:49.319] [INFO] vrender - VRender初始化...
+[2016-12-01 10:58:49.322] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 10:58:49.323] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 10:58:49.323] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 10:58:49.330] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 10:58:51.723] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/admin/customer”
+[2016-12-01 11:01:44.453] [INFO] vrender - VRender初始化...
+[2016-12-01 11:01:44.456] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:01:44.456] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:01:44.457] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:01:44.462] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:03:40.470] [INFO] vrender - VRender初始化...
+[2016-12-01 11:03:40.473] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:03:40.474] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:03:40.474] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:03:40.481] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:05:22.920] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/admin/customer/a/b/c”
+[2016-12-01 11:06:56.224] [INFO] vrender - VRender初始化...
+[2016-12-01 11:06:56.228] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:06:56.228] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:06:56.229] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:06:56.234] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:07:14.758] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/mobile/customer/a/b/c”
+[2016-12-01 11:08:35.017] [INFO] vrender - VRender初始化...
+[2016-12-01 11:08:35.023] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:08:35.023] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:08:35.024] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:08:35.031] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:09:41.317] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/mobile/customer/a/b/c”
+[2016-12-01 11:09:41.879] [WARN] vrender - <HttpListener.writeFileNotFound> /Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent/favicon.ico
+[2016-12-01 11:09:44.260] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/framwork/main/MainView”
+[2016-12-01 11:09:44.261] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/admin/customer/a/b/c”
+[2016-12-01 11:10:00.955] [INFO] vrender - VRender初始化...
+[2016-12-01 11:10:00.958] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:10:00.958] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:10:00.959] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:10:00.965] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:10:02.902] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/admin/customer/a/b/c”
+[2016-12-01 11:11:20.983] [INFO] vrender - VRender初始化...
+[2016-12-01 11:11:20.987] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:11:20.987] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:11:20.988] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:11:20.996] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:11:23.151] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/admin/customer/a/b/c”
+[2016-12-01 11:12:36.279] [INFO] vrender - VRender初始化...
+[2016-12-01 11:12:36.283] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:12:36.283] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:12:36.284] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:12:36.291] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:12:38.481] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/admin/customer/a/b/c”
+[2016-12-01 11:14:46.639] [INFO] vrender - VRender初始化...
+[2016-12-01 11:14:46.645] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:14:46.646] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:14:46.647] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:14:46.666] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:16:05.106] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/admin/customer/a/b/c”
+[2016-12-01 11:17:10.305] [INFO] vrender - VRender初始化...
+[2016-12-01 11:17:10.311] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:17:10.312] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:17:10.312] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:17:10.320] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:17:13.725] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/admin/customer/a/b/c”
+[2016-12-01 11:18:02.040] [INFO] vrender - VRender初始化...
+[2016-12-01 11:18:02.043] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:18:02.044] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:18:02.044] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:18:02.053] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:18:19.341] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/admin/customer/a/b/c”
+[2016-12-01 11:19:39.960] [INFO] vrender - VRender初始化...
+[2016-12-01 11:19:39.963] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:19:39.964] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:19:39.964] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:19:39.972] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:19:43.549] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/admin/customer/a/b/c”
+[2016-12-01 11:20:08.798] [INFO] vrender - VRender初始化...
+[2016-12-01 11:20:08.803] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:20:08.803] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:20:08.803] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:20:08.810] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:20:10.901] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/admin/customer/a/b/c”
+[2016-12-01 11:20:34.643] [INFO] vrender - VRender初始化...
+[2016-12-01 11:20:34.648] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:20:34.648] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:20:34.649] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:20:34.655] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:20:49.009] [INFO] vrender - VRender初始化...
+[2016-12-01 11:20:49.014] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:20:49.015] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:20:49.015] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:20:49.026] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:21:56.459] [INFO] vrender - VRender初始化...
+[2016-12-01 11:21:56.463] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:21:56.463] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:21:56.464] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:21:56.469] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:28:25.750] [INFO] vrender - VRender初始化...
+[2016-12-01 11:28:25.754] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:28:25.754] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:28:25.754] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:28:25.761] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:29:05.662] [INFO] vrender - VRender初始化...
+[2016-12-01 11:29:05.666] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:29:05.667] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:29:05.667] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:29:05.674] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:31:01.981] [INFO] vrender - VRender初始化...
+[2016-12-01 11:31:01.986] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:31:01.986] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:31:01.987] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:31:01.994] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:32:03.163] [INFO] vrender - VRender初始化...
+[2016-12-01 11:32:03.167] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:32:03.168] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:32:03.168] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:32:03.176] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:32:05.307] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/MainView”
+[2016-12-01 11:32:48.353] [INFO] vrender - VRender初始化...
+[2016-12-01 11:32:48.357] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:32:48.357] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:32:48.358] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:32:48.364] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:32:55.337] [INFO] vrender - VRender初始化...
+[2016-12-01 11:32:55.342] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:32:55.342] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:32:55.343] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:32:55.350] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 11:36:10.067] [INFO] vrender - VRender初始化...
+[2016-12-01 11:36:10.071] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 11:36:10.071] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 11:36:10.071] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 11:36:10.078] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 13:19:14.964] [INFO] vrender - VRender初始化...
+[2016-12-01 13:19:14.973] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 13:19:14.974] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 13:19:14.975] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 13:19:14.984] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 15:05:14.699] [INFO] vrender - VRender初始化...
+[2016-12-01 15:05:14.706] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 15:05:14.706] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 15:05:14.707] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 15:05:14.714] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 15:56:23.198] [INFO] vrender - VRender初始化...
+[2016-12-01 15:56:23.201] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 15:56:23.202] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 15:56:23.202] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 15:56:23.208] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 16:43:46.516] [INFO] vrender - VRender初始化...
+[2016-12-01 16:43:46.520] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 16:43:46.521] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 16:43:46.521] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 16:43:46.527] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 16:51:14.687] [INFO] vrender - VRender初始化...
+[2016-12-01 16:51:14.693] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 16:51:14.693] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 16:51:14.694] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 16:51:14.701] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 17:10:41.790] [INFO] vrender - VRender初始化...
+[2016-12-01 17:10:41.797] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 17:10:41.798] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 17:10:41.798] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 17:10:41.804] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 17:21:34.449] [INFO] vrender - VRender初始化...
+[2016-12-01 17:21:34.452] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 17:21:34.453] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 17:21:34.453] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 17:21:34.460] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 17:23:17.156] [INFO] vrender - VRender初始化...
+[2016-12-01 17:23:17.160] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 17:23:17.161] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 17:23:17.162] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 17:23:17.174] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 17:23:26.569] [INFO] vrender - VRender初始化...
+[2016-12-01 17:23:26.577] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 17:23:26.578] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 17:23:26.579] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 17:23:26.590] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 17:27:33.979] [INFO] vrender - VRender初始化...
+[2016-12-01 17:27:33.983] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 17:27:33.983] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 17:27:33.983] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 17:27:33.989] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 17:28:51.159] [INFO] vrender - VRender初始化...
+[2016-12-01 17:28:51.165] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 17:28:51.166] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 17:28:51.166] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 17:28:51.173] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-01 17:30:11.384] [INFO] vrender - VRender初始化...
+[2016-12-01 17:30:11.388] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-01 17:30:11.388] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-01 17:30:11.388] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-01 17:30:11.395] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 09:27:10.887] [INFO] vrender - VRender初始化...
+[2016-12-02 09:27:10.892] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 09:27:10.893] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 09:27:10.893] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 09:27:10.901] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 09:27:41.881] [INFO] vrender - VRender初始化...
+[2016-12-02 09:27:41.886] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 09:27:41.886] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 09:27:41.886] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 09:27:41.892] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 09:28:29.174] [INFO] vrender - VRender初始化...
+[2016-12-02 09:28:29.179] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 09:28:29.179] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 09:28:29.180] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 09:28:29.188] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 09:32:11.072] [INFO] vrender - VRender初始化...
+[2016-12-02 09:32:11.076] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 09:32:11.076] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 09:32:11.077] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 09:32:11.086] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 09:32:42.356] [INFO] vrender - VRender初始化...
+[2016-12-02 09:32:42.360] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 09:32:42.360] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 09:32:42.361] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 09:32:42.368] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 09:34:34.154] [INFO] vrender - VRender初始化...
+[2016-12-02 09:34:34.158] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 09:34:34.158] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 09:34:34.158] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 09:34:34.164] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 09:35:09.613] [INFO] vrender - VRender初始化...
+[2016-12-02 09:35:09.618] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 09:35:09.618] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 09:35:09.618] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 09:35:09.624] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 09:35:53.758] [INFO] vrender - VRender初始化...
+[2016-12-02 09:35:53.762] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 09:35:53.762] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 09:35:53.762] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 09:35:53.769] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 09:36:39.822] [INFO] vrender - VRender初始化...
+[2016-12-02 09:36:39.831] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 09:36:39.831] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 09:36:39.832] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 09:36:39.846] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 09:40:14.183] [INFO] vrender - VRender初始化...
+[2016-12-02 09:40:14.187] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 09:40:14.187] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 09:40:14.188] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 09:40:14.193] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 09:40:38.127] [INFO] vrender - VRender初始化...
+[2016-12-02 09:40:38.131] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 09:40:38.131] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 09:40:38.131] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 09:40:38.137] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 09:40:51.409] [INFO] vrender - VRender初始化...
+[2016-12-02 09:40:51.413] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 09:40:51.414] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 09:40:51.414] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 09:40:51.419] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 10:02:34.662] [INFO] vrender - VRender初始化...
+[2016-12-02 10:02:34.668] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 10:02:34.668] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 10:02:34.669] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 10:02:34.674] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 10:07:53.403] [INFO] vrender - VRender初始化...
+[2016-12-02 10:07:53.409] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 10:07:53.409] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 10:07:53.410] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 10:07:53.419] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 10:10:07.886] [INFO] vrender - VRender初始化...
+[2016-12-02 10:10:07.891] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 10:10:07.892] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 10:10:07.892] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 10:10:07.899] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 10:15:42.358] [INFO] vrender - VRender初始化...
+[2016-12-02 10:15:42.362] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 10:15:42.362] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 10:15:42.362] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 10:15:42.368] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 10:50:33.931] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： TypeError: this.readyAll is not a function
+[2016-12-02 10:51:17.040] [INFO] vrender - VRender初始化...
+[2016-12-02 10:51:17.044] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 10:51:17.044] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 10:51:17.044] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 10:51:17.052] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 10:52:13.021] [INFO] vrender - VRender初始化...
+[2016-12-02 10:52:13.026] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 10:52:13.026] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 10:52:13.026] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 10:52:13.033] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 11:43:50.254] [INFO] vrender - VRender初始化...
+[2016-12-02 11:43:50.259] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 11:43:50.259] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 11:43:50.259] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 11:43:50.268] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 17:44:37.019] [INFO] vrender - VRender初始化...
+[2016-12-02 17:44:37.027] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-02 17:44:37.027] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-02 17:44:37.029] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-02 17:44:37.044] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-02 17:44:39.035] [ERROR] vrender - <UIBuilder.onerror> 网页构建错误： 试图构建的视图不存在“/Users/tea/Documents/2016/work/shaoxing/zhxx/docs/components/button”
+[2016-12-04 17:06:40.554] [INFO] vrender - VRender初始化...
+[2016-12-04 17:06:40.558] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 17:06:40.559] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 17:06:40.559] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 17:06:40.570] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 17:06:58.096] [INFO] vrender - VRender初始化...
+[2016-12-04 17:06:58.100] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 17:06:58.101] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 17:06:58.101] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 17:06:58.106] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 17:10:35.904] [INFO] vrender - VRender初始化...
+[2016-12-04 17:10:35.908] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 17:10:35.908] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 17:10:35.909] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 17:10:35.914] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 17:11:08.593] [INFO] vrender - VRender初始化...
+[2016-12-04 17:11:08.597] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 17:11:08.598] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 17:11:08.598] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 17:11:08.605] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 17:11:21.759] [INFO] vrender - VRender初始化...
+[2016-12-04 17:11:21.764] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 17:11:21.765] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 17:11:21.765] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 17:11:21.771] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 17:12:28.670] [INFO] vrender - VRender初始化...
+[2016-12-04 17:12:28.675] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 17:12:28.675] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 17:12:28.675] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 17:12:28.682] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 17:19:43.763] [INFO] vrender - VRender初始化...
+[2016-12-04 17:19:43.768] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 17:19:43.768] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 17:19:43.768] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 17:19:43.774] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 17:25:22.128] [INFO] vrender - VRender初始化...
+[2016-12-04 17:25:22.132] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 17:25:22.132] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 17:25:22.133] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 17:25:22.138] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 18:03:11.642] [INFO] vrender - VRender初始化...
+[2016-12-04 18:03:11.650] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 18:03:11.650] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 18:03:11.651] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 18:03:11.663] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 18:05:38.767] [INFO] vrender - VRender初始化...
+[2016-12-04 18:05:38.773] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 18:05:38.773] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 18:05:38.773] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 18:05:38.782] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 18:05:49.871] [INFO] vrender - VRender初始化...
+[2016-12-04 18:05:49.876] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 18:05:49.876] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 18:05:49.877] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 18:05:49.885] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 18:07:12.968] [INFO] vrender - VRender初始化...
+[2016-12-04 18:07:12.972] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 18:07:12.972] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 18:07:12.973] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 18:07:12.978] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 18:18:47.701] [INFO] vrender - VRender初始化...
+[2016-12-04 18:18:47.705] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 18:18:47.706] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 18:18:47.706] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 18:18:47.712] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 19:02:26.341] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:21:41.746] [INFO] vrender - VRender初始化...
+[2016-12-04 19:21:41.750] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 19:21:41.750] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 19:21:41.751] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 19:21:41.758] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 19:23:28.092] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:33:21.875] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:34:46.487] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:35:23.077] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:36:44.724] [INFO] vrender - VRender初始化...
+[2016-12-04 19:36:44.730] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 19:36:44.731] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 19:36:44.731] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 19:36:44.741] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 19:36:49.204] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:37:39.146] [INFO] vrender - VRender初始化...
+[2016-12-04 19:37:39.150] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 19:37:39.151] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 19:37:39.151] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 19:37:39.158] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 19:37:45.547] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:37:52.940] [INFO] vrender - VRender初始化...
+[2016-12-04 19:37:52.944] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 19:37:52.944] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 19:37:52.945] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 19:37:52.951] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 19:38:02.789] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:38:14.919] [INFO] vrender - VRender初始化...
+[2016-12-04 19:38:14.924] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 19:38:14.925] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 19:38:14.925] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 19:38:14.932] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 19:38:19.589] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:38:31.836] [INFO] vrender - VRender初始化...
+[2016-12-04 19:38:31.841] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 19:38:31.841] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 19:38:31.841] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 19:38:31.850] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 19:38:35.947] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:38:47.748] [INFO] vrender - VRender初始化...
+[2016-12-04 19:38:47.753] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 19:38:47.754] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 19:38:47.754] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 19:38:47.762] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 19:38:53.378] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:39:30.755] [INFO] vrender - VRender初始化...
+[2016-12-04 19:39:30.760] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 19:39:30.761] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 19:39:30.761] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 19:39:30.769] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 19:39:38.381] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:39:59.306] [INFO] vrender - VRender初始化...
+[2016-12-04 19:39:59.310] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 19:39:59.310] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 19:39:59.311] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 19:39:59.317] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 19:40:32.080] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:41:05.416] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:41:09.287] [INFO] vrender - VRender初始化...
+[2016-12-04 19:41:09.291] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 19:41:09.292] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 19:41:09.292] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 19:41:09.298] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 19:41:13.946] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:41:43.994] [INFO] vrender - VRender初始化...
+[2016-12-04 19:41:43.998] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 19:41:43.998] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 19:41:43.999] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 19:41:44.008] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 19:41:56.816] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:43:11.124] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:44:12.756] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:45:31.871] [INFO] vrender - VRender初始化...
+[2016-12-04 19:45:31.876] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 19:45:31.876] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 19:45:31.876] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 19:45:31.883] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 19:45:41.049] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:45:48.264] [INFO] vrender - VRender初始化...
+[2016-12-04 19:45:48.269] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 19:45:48.269] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 19:45:48.270] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 19:45:48.276] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 19:50:42.748] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:51:56.915] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:53:21.332] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:57:22.525] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:57:34.865] [INFO] vrender - VRender初始化...
+[2016-12-04 19:57:34.876] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 19:57:34.876] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 19:57:34.877] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 19:57:34.886] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 19:57:39.078] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:58:21.466] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:58:53.340] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 19:59:49.342] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 20:03:06.358] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 20:03:23.126] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 20:03:55.414] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 20:04:36.394] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 20:10:45.106] [INFO] vrender - VRender初始化...
+[2016-12-04 20:10:45.118] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 20:10:45.119] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 20:10:45.120] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 20:10:45.137] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 20:11:39.880] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 20:12:22.709] [INFO] vrender - VRender初始化...
+[2016-12-04 20:12:22.714] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 20:12:22.715] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 20:12:22.715] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 20:12:22.722] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 20:13:49.270] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 20:27:37.765] [INFO] vrender - VRender初始化...
+[2016-12-04 20:27:37.772] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 20:27:37.772] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 20:27:37.773] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 20:27:37.781] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 20:28:48.966] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 20:28:51.386] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 20:28:54.473] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 20:33:29.749] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 20:35:03.736] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-04 20:37:35.633] [INFO] vrender - VRender初始化...
+[2016-12-04 20:37:35.639] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-04 20:37:35.640] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-04 20:37:35.640] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-04 20:37:35.648] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-04 20:39:44.988] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-05 09:45:34.581] [INFO] vrender - VRender初始化...
+[2016-12-05 09:45:34.585] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-05 09:45:34.585] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-05 09:45:34.586] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-05 09:45:34.591] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-05 09:45:37.979] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-05 09:47:56.106] [INFO] vrender - VRender初始化...
+[2016-12-05 09:47:56.110] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-05 09:47:56.111] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-05 09:47:56.111] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-05 09:47:56.117] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-05 09:48:01.139] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.css ENOENT
+[2016-12-05 09:48:01.146] [WARN] vrender - <FileMinifier.getFilesMinifiedInfo> /Users/tea/Documents/2016/work/shaoxing/zhxx/framework/main/iconfont/iconfont.js ENOENT
+[2016-12-05 09:50:04.023] [INFO] vrender - VRender初始化...
+[2016-12-05 09:50:04.029] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-05 09:50:04.029] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-05 09:50:04.030] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-05 09:50:04.038] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-05 09:55:05.111] [INFO] vrender - VRender初始化...
+[2016-12-05 09:55:05.115] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-05 09:55:05.116] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-05 09:55:05.116] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-05 09:55:05.122] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-05 11:32:16.584] [INFO] vrender - VRender初始化...
+[2016-12-05 11:32:16.588] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-05 11:32:16.589] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-05 11:32:16.589] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-05 11:32:16.595] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-05 11:33:01.356] [INFO] vrender - VRender初始化...
+[2016-12-05 11:33:01.361] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-05 11:33:01.361] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-05 11:33:01.362] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-05 11:33:01.369] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-05 11:33:35.698] [INFO] vrender - VRender初始化...
+[2016-12-05 11:33:35.703] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-05 11:33:35.703] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-05 11:33:35.704] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-05 11:33:35.712] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-05 11:49:30.370] [INFO] vrender - VRender初始化...
+[2016-12-05 11:49:30.375] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-05 11:49:30.376] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-05 11:49:30.376] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-05 11:49:30.384] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-06 17:37:19.154] [INFO] vrender - VRender初始化...
+[2016-12-06 17:37:19.158] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-06 17:37:19.159] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-06 17:37:19.159] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-06 17:37:19.164] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-06 17:37:25.899] [WARN] vrender - <HttpListener.writeFileNotFound> /Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent/favicon.ico
+[2016-12-06 17:39:25.555] [INFO] vrender - VRender初始化...
+[2016-12-06 17:39:25.561] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-06 17:39:25.561] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-06 17:39:25.561] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-06 17:39:25.569] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-06 19:03:27.879] [INFO] vrender - VRender初始化...
+[2016-12-06 19:03:27.882] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-06 19:03:27.883] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-06 19:03:27.883] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-06 19:03:27.889] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
+[2016-12-07 09:33:16.023] [INFO] vrender - VRender初始化...
+[2016-12-07 09:33:16.028] [INFO] vrender - 系统基本路径：/Users/tea/Documents/2016/work/shaoxing/zhxx
+[2016-12-07 09:33:16.028] [INFO] vrender - 日志输出目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/logs/
+[2016-12-07 09:33:16.028] [INFO] vrender - Web Service 根目录：/Users/tea/Documents/2016/work/shaoxing/zhxx/WebContent
+[2016-12-07 09:33:16.034] [INFO] vrender - 服务已开启，端口：8888，现在您可以访问：http://localhost:8888
