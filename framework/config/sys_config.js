@@ -11,5 +11,10 @@ module.exports = {
         }
     },
 
-    uplifyExpires: 1000
+    uplifyExpires: 1000,
+
+    modules: {
+        "aaa": "./modules/customer",
+        "bbb": "./modules/member"
+    }
 };

@@ -3,7 +3,7 @@ var VRender = require("v-render");
 
 
 var HeaderView = VRender.UIView.extend(module, {
-    id: "main-head",
+    className: "main-head",
 
     renderView: function () {
         HeaderView.__super__.renderView.call(this);

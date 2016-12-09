@@ -2,6 +2,7 @@
 var VRender = require("v-render");
 var HeaderView = require("./HeaderView");
 var SideMenuView = require("./SideMenuView");
+var ModuleView = require("./ModuleView");
 var ContainerView = require("./ContainerView");
 var CustomerView = require("../../modules/customer/CustomerView");
 
@@ -13,14 +14,22 @@ var MainView = VRender.SinglePageView.extend(module, {
         MainView.__super__.doInit.call(this);
 
         var self = this;
-        // this.headView = new HeaderView(this);
-        this.sideMenu = new SideMenuView(this);
-        this.sideMenu.ready(function () {
+
+
+        var paths = this.options.pathname.substr(1).split("/");
+
+        this.moduleName = this.options.moduleName = paths[2];
+
+        this.moduleView = new ModuleView(this, this.options);
+
+        this.sideMenu = new SideMenuView(this, {active: this.moduleName});
+        // this.sideMenu.ready(function () {
+        //     self.ready("mainView");
+        // });
+
+        this.allReady([this.moduleView, this.sideMenu], function () {
             self.ready("mainView");
         });
-        // this.readyAll([this.headView, this.sideMenu], function () {
-        //     self.ready("mainview");
-        // });
     },
 
     renderBody: function (body) {
@@ -32,13 +41,19 @@ var MainView = VRender.SinglePageView.extend(module, {
 
         this.sideMenu.render(mainBody);
 
+        this.moduleView.render(mainBody);
+
         new ContainerView(this).render(mainBody);
 
         // var mainContainer = VRender.$("<div id='main-conatiner'>container</div>").appendTo(mainBody);
 
-        body.append("<div id='main-detail'>detail</div>");
+        // body.append("<div id='main-detail'>detail</div>");
 
         // new CustomerView(this).render(ContainerView);
+    },
+
+    getSinglePageContainer: function () {
+        return ".main-container";
     }
 });
 

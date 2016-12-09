@@ -9,6 +9,9 @@
        normalize.css 中也包含这行 */
     overflow: hidden;
 }
+.icon-size-1_5 {
+    width: 1.5em; height: 1.5em;
+}
 .icon-size-2 {
     width: 2em; height: 2em;
 }

@@ -2,7 +2,7 @@ var VRender = require("v-render");
 
 
 var ContainerView = VRender.UIView.extend(module, {
-    id: "main-container",
+    className: "main-container",
 
     renderView: function () {
         ContainerView.__super__.renderView.call(this);
